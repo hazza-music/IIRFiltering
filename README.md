@@ -9,7 +9,7 @@ Basic DSP MATLAB codes to understand IIR and MATLAB
 
 4-biQuad gives usage of the biquad filter
 
-5 biQuad filter has the definitions of all filter types and implementation
+5-biQuad filter has the definitions of all filter types and implementation
 
 6- Li Tan impulse Response (Useful with book (pg 321 and example 1)
 
